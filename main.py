@@ -4,11 +4,11 @@
 import sys
 import pygame
 from constants import *
-from circleshape import *
-from player import *
-from asteroid import *
-from asteroidfield import *
-from shot import *
+from circleshape import CircleShape
+from player import Player
+from asteroid import Asteroid
+from asteroidfield import AsteroidField
+from shot import Shot
 
 
 
